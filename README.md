@@ -6,7 +6,7 @@ _By the University of Helsinki_
 
 ![helsinki_uni_logo](https://fullstackopen.com/static/uoh_centre-3689cf9983a2ebc8089c8f078a9c4769.svg)
 
--[x] [Part 0](part0_fundamentals) Fundamentals of Web Apps
+-[x][Part 0](part0_fundamentals) Fundamentals of Web Apps
 -[] Part 1 Introduction to React
 -[] Part 2 Communicating with Server
 -[] Part 3 Programming a server with NodeJS and Express
